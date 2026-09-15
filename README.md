@@ -67,7 +67,7 @@ Gained practical experience in marketing, networking, business development, and 
 ## 🤝 Technical & Professional Activities
 
 - **ASME** — Student Member
-- **MESA DYP COE** — Member
+- **MESA DYPCOE** — Member
 - **ISTE** — Student Member
 - **CADWAR** — Technical Event / CAD Competition
 
